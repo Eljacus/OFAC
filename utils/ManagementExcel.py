@@ -5,7 +5,7 @@ def exportIncomplete(results):
     path = "./excel/Informacion_incompleta.xlsx"
     incomplete = [
         r for r in results
-        if r["estadoTransaccion"] == "Información incompleta"
+        if r["estadoTransaccion"] == "Informacion incompleta"
     ]
 
     if not incomplete:
