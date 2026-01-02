@@ -27,6 +27,7 @@
 
 # Config. archivo .env (Cadena de conexion a db Postgresql)
 
+    - Crear archivo .env dentro de la carpeta raiz (OFAC)
     - Crear la variable de entorno llamada:
     DATABASE_URL
 
