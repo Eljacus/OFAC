@@ -1,0 +1,8 @@
+sqlalchemy
+psycopg2-binary
+selenium
+webdriver-manager
+pandas
+openpyxl
+python-dotenv
+
